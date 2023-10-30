@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Simona Ognyanova
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Front-End Development
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: simonaognanova05@gmail.com
 
 <!---
