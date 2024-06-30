@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Simona Ognyanova
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning JavaScript
-- 📫 How to reach me: 
-linktr.ee/SimonaOgnya
+- 📫 How to reach me: linktr.ee/SimonaOgnya
 
 <!---
 Simonaognyanova05/Simonaognyanova05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
