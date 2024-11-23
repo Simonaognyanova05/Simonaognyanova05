@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Simona Ognyanova
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning React.js
+- 🌱 I am currently studying Informatics and software science at TU-Sofia.
 - 📫 How to reach me: simonaognanova05@gmail.com
