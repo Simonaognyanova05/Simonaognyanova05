@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Simona Ognyanova
 - 👀 I’m interested in programming
-- 🌱 I am currently studying Computer science at TU-Sofia.
+- 🌱 I'm currently studying Computer science at TU-Sofia.
 - 📫 How to reach me: simonaognanova05@gmail.com
